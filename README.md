@@ -149,6 +149,9 @@ Recreation of the standard C library printf function from scratch.
   <a href="mailto:hector_17rock@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="tel:+19392493171">
+    <img src="https://img.shields.io/badge/Phone-(939)_249--3171-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
