@@ -125,10 +125,12 @@ Recreation of the standard C library printf function from scratch.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hector17rock&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hector17rock&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hector17rock&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hector17rock&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hector17rock&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
