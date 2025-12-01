@@ -57,7 +57,7 @@ A web platform that allows fans to order food, drinks, and merch directly to the
 **Backend:** Node.js / FastAPI (if added later)  
 **Role:** Frontend Developer  
 
-🔗 *Add repository link here*
+🔗 [View Repository](https://github.com/hector17rock/SeatServe)
 
 ---
 
@@ -67,7 +67,7 @@ Designed with a **3-layer architecture**, REST APIs, user management, and SQLAlc
 **Tech:** Python, Flask, SQLAlchemy, HTML/CSS  
 **Role:** Full Stack Developer  
 
-🔗 *Add repository link here*
+🔗 [View Repository](https://github.com/hector17rock/holbertonschool-hbnb)
 
 ---
 
@@ -77,7 +77,48 @@ A UNIX-style shell built in C, supporting command parsing & process handling.
 **Tech:** C, Linux syscalls  
 **Role:** Programmer  
 
-🔗 *Add repository link here*
+🔗 [View Repository](https://github.com/hector17rock/holbertonschool-shell)
+
+---
+
+### 🐳 **Softy Pinko – Docker Deployment**
+Full containerization of a web application using Docker and Docker Compose.
+
+**Tech:** Docker, Docker Compose, Nginx  
+**Focus:** DevOps, Container Orchestration  
+
+🔗 [View Repository](https://github.com/hector17rock/holbertonschool-softy-pinko-docker)
+
+---
+
+### 🖨️ **Printf – Custom C Function**
+Recreation of the standard C library printf function from scratch.
+
+**Tech:** C, Variadic Functions  
+**Focus:** Low-level programming, Format specifiers  
+
+🔗 [View Repository](https://github.com/hector17rock/holbertonschool-printf)
+
+---
+
+## 📚 Additional Learning Projects
+
+<details>
+<summary><strong>Click to expand Holberton School projects</strong></summary>
+
+- 🌐 **[Web Front-End](https://github.com/hector17rock/holbertonschool-web_front_end)** – HTML, CSS, JavaScript fundamentals
+- ⚛️ **[Web React](https://github.com/hector17rock/holbertonschool-web_react)** – React components, hooks, and state management
+- 🔧 **[Web Back-End](https://github.com/hector17rock/holbertonschool-web_back_end)** – Backend development with Node.js, Python
+- 🐍 **[Higher Level Programming](https://github.com/hector17rock/holbertonschool-higher_level_programming)** – Python, OOP, databases
+- 💻 **[Low Level Programming](https://github.com/hector17rock/holbertonschool-low_level_programming)** – C programming, memory management
+- 🌳 **[Binary Trees](https://github.com/hector17rock/holbertonschool-binary_trees)** – Data structures in C
+- 🔀 **[Sorting Algorithms](https://github.com/hector17rock/holbertonschool-sorting_algorithms)** – Algorithm implementations
+- 🌐 **[Networking](https://github.com/hector17rock/holbertonschool-network)** – Network protocols and concepts
+- ⚙️ **[System Engineering & DevOps](https://github.com/hector17rock/holbertonschool-system_engineering-devops)** – Bash, system administration
+- 🤖 **[ChatGPT Introduction](https://github.com/hector17rock/holbertonschool-chatgpt-introduction)** – AI integration projects
+- 🛠️ **[Fix My Code Challenge](https://github.com/hector17rock/holbertonschool-Fix_My_Code_Challenge)** – Debugging exercises
+
+</details>
 
 ---
 
