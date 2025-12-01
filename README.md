@@ -101,6 +101,16 @@ Recreation of the standard C library printf function from scratch.
 
 ---
 
+### 📊 **JSON to CSV Converter**
+Lightweight Python CLI tool for converting JSON files to CSV format with smart field detection.
+
+**Tech:** Python, CSV, JSON parsing  
+**Focus:** Data transformation, CLI tools  
+
+🔗 [View Repository](https://github.com/hector17rock/json-to-csv-converter)
+
+---
+
 ## 📚 Additional Learning Projects
 
 <details>
