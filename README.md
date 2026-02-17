@@ -50,6 +50,28 @@
 
 ## 🌟 Featured Projects
 
+### 🤖 **AI Resume Job Helper**
+An AI-powered web app that helps job seekers optimize their resumes, get match scores, rewrite bullet points, and generate tailored cover letters.
+
+**Frontend:** React, TypeScript, Vite  
+**Backend:** FastAPI, OpenAI GPT-4o-mini, Python  
+**Role:** Creator & Full Stack Developer  
+
+🔗 [View Repository](https://github.com/hector17rock/ai-resume-job-helper)
+
+---
+
+### 📚 **SmartDocs Assistant**
+An AI-powered RAG chatbot that answers questions based on your business documents (PDFs), with semantic search and source citations.
+
+**Frontend:** React, TypeScript, Vite  
+**Backend:** FastAPI, OpenAI GPT-4o-mini, ChromaDB  
+**Role:** Creator & Full Stack Developer  
+
+🔗 [View Repository](https://github.com/hector17rock/SmartDocs-Assistant)
+
+---
+
 ### 🏟️ **SeatServe – Stadium Seat-Side Ordering App**
 A web platform that allows fans to order food, drinks, and merch directly to their seats.
 
