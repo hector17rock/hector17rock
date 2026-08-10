@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
@@ -49,6 +50,27 @@
 ---
 
 ## 🌟 Featured Projects
+
+### 🛍️ **GBF**
+A full-stack monorepo with a Vite + React frontend and a FastAPI backend (SQLAlchemy + Alembic).
+
+**Frontend:** React, Vite  
+**Backend:** FastAPI, SQLAlchemy, Alembic  
+**Role:** Creator & Full Stack Developer  
+
+🔗 [View Repository](https://github.com/hector17rock/GBF)
+
+---
+
+### 🧾 **Inspections Platform**
+A lightweight inspection/audit portal built with FastAPI + server-rendered HTML (Jinja2). Stores data in SQLite and generates PDF reports (includes a small PWA experience).
+
+**Backend:** FastAPI, Jinja2, SQLite  
+**Role:** Creator & Full Stack Developer  
+
+🔗 [View Repository](https://github.com/hector17rock/inspections_platform)
+
+---
 
 ### 🤖 **AI Resume Job Helper**
 An AI-powered web app that helps job seekers optimize their resumes, get match scores, rewrite bullet points, and generate tailored cover letters.
@@ -138,6 +160,7 @@ Lightweight Python CLI tool for converting JSON files to CSV format with smart f
 <details>
 <summary><strong>Click to expand Holberton School projects</strong></summary>
 
+- 🧑‍💻 **[Zero Day](https://github.com/hector17rock/holbertonschool-zero_day)** – My first repository as a full-stack engineer (Shell, Git, basics)
 - 🌐 **[Web Front-End](https://github.com/hector17rock/holbertonschool-web_front_end)** – HTML, CSS, JavaScript fundamentals
 - ⚛️ **[Web React](https://github.com/hector17rock/holbertonschool-web_react)** – React components, hooks, and state management
 - 🔧 **[Web Back-End](https://github.com/hector17rock/holbertonschool-web_back_end)** – Backend development with Node.js, Python
@@ -151,6 +174,11 @@ Lightweight Python CLI tool for converting JSON files to CSV format with smart f
 - 🛠️ **[Fix My Code Challenge](https://github.com/hector17rock/holbertonschool-Fix_My_Code_Challenge)** – Debugging exercises
 
 </details>
+
+---
+
+## 📌 Other Repositories
+- 🖼️ **[profile-image](https://github.com/hector17rock/profile-image)** – Assets used for profile/branding.
 
 ---
 
