@@ -1,20 +1,20 @@
 <!-- Header -->
 <h1 align="center">Hey, I'm Héctor 👋</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer</h3>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  Passionate about building real-world apps with clean architecture, scalable backend systems, and interactive front-end experiences.
+  Building responsive, user-focused web applications with modern frontend technologies and full-stack experience across APIs, databases, and backend development.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Graduate of **Holberton School – Software Engineering Program**  
-- 💻 Full-Stack Developer experienced in **React, Node.js, Python, SQL, C**  
-- 🏗️ Creator of **SeatServe** – a stadium seat-side ordering platform  
-- 🏡 Built **HBnB**, a full-stack Airbnb-style app with a 3-layer architecture  
-- ⚙️ Love working with APIs, backend logic, databases & modern front-end frameworks  
+- 💻 Software Engineer and Full Stack Developer with a strong focus on frontend development and responsive, user-focused web applications
+- ⚛️ Hands-on experience with **React, JavaScript, TypeScript, HTML, CSS**, plus full-stack work with **Python, FastAPI, REST APIs, SQL, PostgreSQL**, and Node.js
+- 🤖 Creator of full-stack and AI-powered applications including **AI Resume Job Helper** and **SmartDocs Assistant**
+- 🧩 Experience building frontend interfaces, REST APIs, database-backed applications, and document-processing tools.
+- 🎓 Graduate of the **Holberton School Software Engineering Intensive Program**
 - 🌐 Bilingual: **English & Spanish**
 
 ---
@@ -23,33 +23,66 @@
 
 ### **Languages**
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 ### **Frameworks & Tools**
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ### **Databases**
 <p>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ---
 
 ## 🌟 Featured Projects
+
+### 🤖 **AI Resume Job Helper**
+AI-powered full-stack application that analyzes resumes, identifies ATS keywords, generates tailored improvements and cover letters, and supports bilingual English/Spanish functionality.
+
+**Frontend:** React, TypeScript, Vite  
+**Backend:** FastAPI, Python, OpenAI API  
+**Role:** Creator & Full Stack Developer  
+
+🔗 [View Repository](https://github.com/hector17rock/ai-resume-job-helper)
+
+---
+
+### 📚 **SmartDocs Assistant**
+AI-powered document assistant using Retrieval-Augmented Generation (RAG) to answer questions from uploaded documents with semantic search and source citations.
+
+**Frontend:** React, TypeScript, Vite  
+**Backend:** FastAPI, OpenAI API, ChromaDB  
+**Role:** Creator & Full Stack Developer  
+
+🔗 [View Repository](https://github.com/hector17rock/SmartDocs-Assistant)
+
+---
+
+### 🏟️ **SeatServe – Stadium Seat-Side Ordering App**
+A responsive web platform designed to allow stadium fans to browse and order food, drinks, and merchandise directly from their seats.
+
+**Frontend:** React, Tailwind CSS, Vite  
+**Role:** Frontend Developer  
+
+🔗 [View Repository](https://github.com/hector17rock/SeatServe)
+
+---
 
 ### 🛍️ **GBF**
 A full-stack monorepo with a Vite + React frontend and a FastAPI backend (SQLAlchemy + Alembic).
@@ -59,49 +92,6 @@ A full-stack monorepo with a Vite + React frontend and a FastAPI backend (SQLAlc
 **Role:** Creator & Full Stack Developer  
 
 🔗 [View Repository](https://github.com/hector17rock/GBF)
-
----
-
-### 🧾 **Inspections Platform**
-A lightweight inspection/audit portal built with FastAPI + server-rendered HTML (Jinja2). Stores data in SQLite and generates PDF reports (includes a small PWA experience).
-
-**Backend:** FastAPI, Jinja2, SQLite  
-**Role:** Creator & Full Stack Developer  
-
-🔗 [View Repository](https://github.com/hector17rock/inspections_platform)
-
----
-
-### 🤖 **AI Resume Job Helper**
-An AI-powered web app that helps job seekers optimize their resumes, get match scores, rewrite bullet points, and generate tailored cover letters.
-
-**Frontend:** React, TypeScript, Vite  
-**Backend:** FastAPI, OpenAI GPT-4o-mini, Python  
-**Role:** Creator & Full Stack Developer  
-
-🔗 [View Repository](https://github.com/hector17rock/ai-resume-job-helper)
-
----
-
-### 📚 **SmartDocs Assistant**
-An AI-powered RAG chatbot that answers questions based on your business documents (PDFs), with semantic search and source citations.
-
-**Frontend:** React, TypeScript, Vite  
-**Backend:** FastAPI, OpenAI GPT-4o-mini, ChromaDB  
-**Role:** Creator & Full Stack Developer  
-
-🔗 [View Repository](https://github.com/hector17rock/SmartDocs-Assistant)
-
----
-
-### 🏟️ **SeatServe – Stadium Seat-Side Ordering App**
-A web platform that allows fans to order food, drinks, and merch directly to their seats.
-
-**Frontend:** React, Tailwind, Vite  
-**Backend:** Node.js / FastAPI (if added later)  
-**Role:** Frontend Developer  
-
-🔗 [View Repository](https://github.com/hector17rock/SeatServe)
 
 ---
 
