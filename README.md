@@ -84,12 +84,12 @@ A responsive web platform designed to allow stadium fans to browse and order foo
 
 ---
 
-### 🛍️ **GBF**
-A full-stack monorepo with a Vite + React frontend and a FastAPI backend (SQLAlchemy + Alembic).
+### 🛍️ **GBF – Grow by Faith**
+A full-stack Christian e-commerce platform for personalized faith-based products, with storefront flows, product customization, checkout, order tracking, and admin management tools.
 
-**Frontend:** React, Vite  
+**Frontend:** React, Vite, Tailwind CSS  
 **Backend:** FastAPI, SQLAlchemy, Alembic  
-**Role:** Creator & Full Stack Developer  
+**Role:** Frontend Developer  
 
 🔗 [View Repository](https://github.com/hector17rock/GBF)
 
