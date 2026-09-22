@@ -75,6 +75,9 @@ AI-powered document assistant using Retrieval-Augmented Generation (RAG) to answ
 ---
 
 ### 🏟️ **SeatServe – Stadium Seat-Side Ordering App**
+<p align="center">
+  <img src="assets/projects/seatserve-logo.png" alt="SeatServe logo" width="170" />
+</p>
 A responsive web platform designed to allow stadium fans to browse and order food, drinks, and merchandise directly from their seats.
 
 **Frontend:** React, Tailwind CSS, Vite  
@@ -85,6 +88,9 @@ A responsive web platform designed to allow stadium fans to browse and order foo
 ---
 
 ### 🛍️ **GBF – Grow by Faith**
+<p align="center">
+  <img src="assets/projects/gbf-logo.png" alt="Grow by Faith logo" width="120" />
+</p>
 A full-stack Christian e-commerce platform for personalized faith-based products, with storefront flows, product customization, checkout, order tracking, and admin management tools.
 
 **Frontend:** React, Vite, Tailwind CSS  
@@ -96,6 +102,9 @@ A full-stack Christian e-commerce platform for personalized faith-based products
 ---
 
 ### 🏡 **HBnB – Full-Stack Airbnb Clone**
+<p align="center">
+  <img src="assets/projects/hbnb-logo.png" alt="HBnB logo" width="220" />
+</p>
 Designed with a **3-layer architecture**, REST APIs, user management, and SQLAlchemy ORM.
 
 **Tech:** Python, Flask, SQLAlchemy, HTML/CSS  
